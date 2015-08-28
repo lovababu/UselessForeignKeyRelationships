@@ -9,9 +9,9 @@
   
 ## Problem Statement.
   1. As a basic oracle user you may know that Foreign key relationships between the tables very expensive. 
-     This might be reason people are looking for NoSQL databases now a days.
+     This might be the reason people are looking for NoSQL databases now a days.
   2. So can't we avoid these foreign key relationships on DB level, yes you can.
-  3. How to load the child object as soon as paren get loaded? 
+  3. If No Foreignk key relationship, How to load the child object as soon as paren get loaded? 
      ORM framework like Hibernate can address this problem by specifying relations on Entity clas level.
   
 ## Pre-requisites.
